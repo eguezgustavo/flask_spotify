@@ -1,4 +1,4 @@
-#Simple flask server for spotify
+# Simple flask server for spotify
 
 This app uses *shpotify*, in order to run you need to install it first, hit this [url](https://github.com/hnarayanan/shpotify)
 
